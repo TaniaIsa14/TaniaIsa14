@@ -22,6 +22,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TaniaIsa14&theme=onedark)](https://github.com/TaniaIsa14/github-profile-trophy)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tania&theme=synthwave &show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaniaIsa14&repo=github-readme-stats)](https://github.com/TaniaIsa14/github-readme-stats)
 
 
 
