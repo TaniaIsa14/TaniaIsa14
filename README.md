@@ -1,13 +1,15 @@
 
  
              
-                 Hey ! I'm Tania😊
+                
                  
-#### I am self-taught web developer form Bangladesh
+####            Hey! I'm Tania☺
+I am self-taught web developer form Bangladesh
 ----------------------------------------------------
+![](https://komarev.com/ghpvc/?username=TaniaIsa14username&label=PROFILE+VIEWS)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+
 
 - 🔭 I’m currently working on Event management website
 - 🌱 I’m currently learning Django 
@@ -18,7 +20,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TaniaIsa14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tania-isa-389804150//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100004461466997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/misty_soytan//)  
 
-![](https://komarev.com/ghpvc/?username=TaniaIsa14username&label=PROFILE+VIEWS)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TaniaIsa14&theme=onedark)](https://github.com/TaniaIsa14/github-profile-trophy)
 
