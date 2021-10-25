@@ -14,14 +14,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on  Data science 
 - ❤  I'm love for trvelling
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tania&show_icons=true&theme=synthwave 
-
-
-
-JavaScript   9 hrs 30 mins   █████████████████████▓░░░   87.18 % 
-JSX          52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-MDX          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tania&show_icons=true&theme=synthwave )]
+ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TaniaIsa14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tania-isa-389804150//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100004461466997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/misty_soytan//)  
 
