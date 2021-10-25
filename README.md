@@ -3,18 +3,23 @@
              
                 
                  
-#####           Hey! I'm Tania☺
+##### Hey! I'm Tania☺
+
+
 I am self-taught web developer form Bangladesh
 ----------------------------------------------------
 ![](https://komarev.com/ghpvc/?username=TaniaIsa14username&label=PROFILE+VIEWS)
 
-
+I am very passionate about programming and enthusiastic learner in Web application and Data science field. I
+dream to be an expert Web Devoloper so that I can build professional Web tools that has business value. I
+am looking for a juniour web devoloper engineer position in a reputed software company that can help me to
+achieve my goal.
 
 
 - 🔭 I’m currently working on Event management website
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on  Data science 
-- ❤  I'm love for trvelling
+- ❤  I'm love to trvelling
 
  
 
