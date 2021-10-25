@@ -14,7 +14,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on  Data science 
 - ❤  I'm love for trvelling
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tania&show_icons=true&theme=synthwave )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tania&show_icons=true&theme=synthwave 
+
+
+
 JavaScript   9 hrs 30 mins   █████████████████████▓░░░   87.18 % 
 JSX          52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 MDX          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
