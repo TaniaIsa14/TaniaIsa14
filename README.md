@@ -1,13 +1,13 @@
 
 #### I'm Tania☺
 
-I am self-taught web developer form Bangladesh
+I am self-taught Web Developer form Bangladesh
 ----------------------------------------------------
 ![](https://komarev.com/ghpvc/?username=TaniaIsa14username&label=PROFILE+VIEWS)
 
 I am very passionate about programming and enthusiastic learner in Web application and Data science field. I
 dream to be an expert Web Devoloper so that I can build professional Web tools that has business value. I
-am looking for a juniour web devoloper engineer position in a reputed software company that can help me to
+am looking for a junior web devoloper engineer position in a reputed software company that can help me to
 achieve my goal.
 
 
