@@ -1,14 +1,14 @@
 
  
              
-               ###Hello ! I'm Tania😊
+                 Hello ! I'm Tania😊
 #### I am self-taught web developer form Bangladesh
 ----------------------------------------------------
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Event management website using Django 
+- 🔭 I’m currently working on Event management website
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on  Data science 
 
@@ -19,9 +19,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/TaniaIsa14)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/TaniaIsa14&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tania&show_icons=true&theme=synthwave )
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/TaniaIsa14)  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TaniaIsa14&theme=gotham)](https://github.com/TaniaIsa14/github-readme-activity-graph)
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/TaniaIsa14)  
 
