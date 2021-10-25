@@ -18,7 +18,8 @@ I am self-taught web developer form Bangladesh
 
  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TaniaIsa14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tania-isa-389804150//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100004461466997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/misty_soytan//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.0/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/TaniaIsa14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.0/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tania-isa-389804150//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.0/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100004461466997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.0/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/https://www.instagram.com/misty_soytan//)  
+src='https://cdn.jsdelivr.net/npm/simple-icons@1.0.0/icons/gmail.svg' alt='gmail' height='20'>](taniaisarupu@gmail.com)  
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TaniaIsa14&theme=onedark)](https://github.com/TaniaIsa14/github-profile-trophy)
