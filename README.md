@@ -24,6 +24,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tania&theme=synthwave&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaniaIsa14&langs_count=8)](https://github.com/TaniaIsa14/github-readme-stats)
 
 ## 🧰 Languages and Tools:
 <p align="center">
