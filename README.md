@@ -23,5 +23,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TaniaIsa14&theme=gotham)](https://github.com/TaniaIsa14/github-readme-activity-graph)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/TaniaIsa14)  
+https://TaniaIsa14/github-profile-views-counter  
 
