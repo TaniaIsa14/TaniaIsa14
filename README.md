@@ -5,15 +5,15 @@ I am self-taught Web Developer form Bangladesh
 ----------------------------------------------------
 ![](https://komarev.com/ghpvc/?username=TaniaIsa14username&label=PROFILE+VIEWS)
 
-I am very passionate about programming and enthusiastic learner in Web application and Data science field. I
+I am very passionate about programming and enthusiastic learner in <b> Full Stack Devoloper</b> field. I
 dream to be an expert Web Devoloper so that I can build professional Web tools that has business value. I
 am looking for a junior web devoloper engineer position in a reputed software company that can help me to
 achieve my goal.
 
 
 - 🔭 I’m currently working on Event management website
-- 🌱 I’m currently learning Django 
-- 👯 I’m looking to collaborate on  Data science 
+- 🌱 I’m currently learning NodeJs,TypeScript ,Angular,Nestjs
+- 👯 I’m looking to collaborate on  Django 
 - ❤  I'm love to trvelling
 
  
@@ -36,6 +36,8 @@ achieve my goal.
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nestjs/nestjs.png" alt="Nestjs" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="40" style="vertical-align:top; margin:4px">
